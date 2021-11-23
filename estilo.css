@@ -1,0 +1,33 @@
+#myvideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1000;
+}
+
+.content {
+    top: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+h1, p, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+.color {
+    color: red;
+
+}
+div {
+    text-align: center;
+    top: 100px;
+}
+p {
+    font-size: 20px;
+}
